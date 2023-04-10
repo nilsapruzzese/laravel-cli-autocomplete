@@ -100,3 +100,4 @@ _laravel_completions() {
 }
 
 complete -F _laravel_completions artisan
+complete -F _laravel_completions docker-compose * * artisan
