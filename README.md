@@ -16,7 +16,7 @@ Before you can use this script, you'll need to have the following installed:
 2. Place this file in a directory where it won't be deleted (e.g. `/usr/local/etc`).
 3. Change the `/path/to/` in the script to the directory where you placed the script. Save It!
 4. Make the file executable by running `chmod +x laravel-completion.bash`.
-5. Execute then script by running `./laravel-completion.bash` and paste `_laravel_completions_install` in your Shell (you must be in a laravel project folder).
+5. Execute then script by running `source /path/to/laravel-completion.bash` and paste `_laravel_completions_install` in your Shell (you must be in a laravel project folder).
 
 ## Useful Commands
 To install the script, run the following command:
